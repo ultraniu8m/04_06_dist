@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\04_06_dist\04_06_dist\bin\Debug\04_06_dist.exe.config
+C:\Users\user\source\repos\04_06_dist\04_06_dist\bin\Debug\04_06_dist.exe
+C:\Users\user\source\repos\04_06_dist\04_06_dist\bin\Debug\04_06_dist.pdb
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\04_06_dist.csprojAssemblyReference.cache
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\App.g.cs
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\04_06_dist_MarkupCompile.cache
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\04_06_dist_MarkupCompile.lref
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\04_06_dist.g.resources
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\_04_06_dist.Properties.Resources.resources
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\04_06_dist.csproj.GenerateResource.cache
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\04_06_dist.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\04_06_dist.exe
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\04_06_dist.pdb
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\auth.g.cs
+C:\Users\user\source\repos\04_06_dist\04_06_dist\obj\Debug\auth.baml
